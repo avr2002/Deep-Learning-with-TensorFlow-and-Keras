@@ -1,6 +1,8 @@
 # Book PDF
 Deep Learning with TensorFlow and Keras.pdf 
 
+Ch_03_CNN/saved_model/vgg16_weights_tf_dim_ordering_tf_kernels.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
