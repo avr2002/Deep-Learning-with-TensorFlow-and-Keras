@@ -8,9 +8,9 @@
   <img src="https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-and-Keras-3rd-edition/blob/main/Cover.png" />
 </p> -->
 
-<p align="center">
-  <img src="Cover.png" />
-</p>
+<div align="center">
+  <img src="Cover.png"/>
+</div>
 
 
 
